@@ -1,5 +1,5 @@
 # UTS-Pemweb
-UTS Pemweb
+UTS Pemrograman Web
 
 Terdapat tiga output yaitu form register, login dan dashboard
 
